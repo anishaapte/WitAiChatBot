@@ -1,0 +1,78 @@
+{
+    "name": "chatroom",
+    "roles": [
+        "chatroom"
+    ],
+    "lookups": [
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "Babcock Banter",
+            "synonyms": [
+                "Babcock Banter",
+                "babcock",
+                "babcock banter",
+                "banter"
+            ]
+        },
+        {
+            "keyword": "Bascom Hill Hangout",
+            "synonyms": [
+                "Bascom Hill Hangout",
+                "bascom",
+                "bascom hill hangout",
+                "hangout"
+            ]
+        },
+        {
+            "keyword": "Chadbourne Chats",
+            "synonyms": [
+                "Chadbourne Chats",
+                "chadbourne",
+                "chadbourne chats",
+                "chats"
+            ]
+        },
+        {
+            "keyword": "Humanities Hubbub",
+            "synonyms": [
+                "Humanities Hubbub",
+                "hubbub",
+                "humanities",
+                "humanities hubbub"
+            ]
+        },
+        {
+            "keyword": "Memorial Union Meetups",
+            "synonyms": [
+                "Memorial Union Meetups",
+                "meetups",
+                "memorial",
+                "memorial union",
+                "memorial union meetups",
+                "union"
+            ]
+        },
+        {
+            "keyword": "Red Gym Rendezvous",
+            "synonyms": [
+                "Red Gym Rendezvous",
+                "gym",
+                "red",
+                "red gym",
+                "red gym rendezvous",
+                "rendezvous"
+            ]
+        },
+        {
+            "keyword": "Witte Whispers",
+            "synonyms": [
+                "Witte Whispers",
+                "whispers",
+                "witte",
+                "witte whispers"
+            ]
+        }
+    ]
+}

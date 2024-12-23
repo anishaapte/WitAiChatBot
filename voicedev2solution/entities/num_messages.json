@@ -1,0 +1,30 @@
+{
+    "name": "num_messages",
+    "roles": [
+        "num_messages"
+    ],
+    "lookups": [
+        "free-text",
+        "keywords"
+    ],
+    "keywords": [
+        {
+            "keyword": "2",
+            "synonyms": [
+                "2"
+            ]
+        },
+        {
+            "keyword": "3",
+            "synonyms": [
+                "3"
+            ]
+        },
+        {
+            "keyword": "4",
+            "synonyms": [
+                "4"
+            ]
+        }
+    ]
+}

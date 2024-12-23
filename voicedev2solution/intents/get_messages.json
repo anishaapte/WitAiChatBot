@@ -1,0 +1,7 @@
+{
+    "name": "get_messages",
+    "entities": [
+        "chatroom:chatroom",
+        "num_messages:num_messages"
+    ]
+}

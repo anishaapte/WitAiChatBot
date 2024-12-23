@@ -1,0 +1,6 @@
+{
+    "name": "create_message",
+    "entities": [
+        "chatroom:chatroom"
+    ]
+}

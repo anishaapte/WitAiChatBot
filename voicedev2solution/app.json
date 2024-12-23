@@ -1,0 +1,7 @@
+{
+    "version": 20200513,
+    "zip-command": "zip voicedev2solution.zip voicedev2solution\/app.json voicedev2solution\/entities\/*.json voicedev2solution\/intents\/*.json voicedev2solution\/traits\/*.json voicedev2solution\/utterances\/*.json voicedev2solution\/composer\/*.json",
+    "name": "voicedev2solution",
+    "lang": "en",
+    "timezone": "America\/Los_Angeles"
+}

@@ -1,0 +1,617 @@
+{
+    "utterances": [
+        {
+            "text": "Can I get registered",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "I need some help",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "I want an account",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "am I logged in",
+            "entities": [],
+            "traits": [],
+            "intent": "whoami"
+        },
+        {
+            "text": "can I see the chatrooms",
+            "entities": [],
+            "traits": [],
+            "intent": "get_chatrooms"
+        },
+        {
+            "text": "can you log me out",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "can you login",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "can you tell me who I am",
+            "entities": [],
+            "traits": [],
+            "intent": "whoami"
+        },
+        {
+            "text": "chatrooms",
+            "entities": [],
+            "traits": [],
+            "intent": "get_chatrooms"
+        },
+        {
+            "text": "could I get some help",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "could I have help",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "could I see chatrooms",
+            "entities": [],
+            "traits": [],
+            "intent": "get_chatrooms"
+        },
+        {
+            "text": "create a post",
+            "entities": [],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "create a post in babcock banter",
+            "entities": [
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 17,
+                    "end": 31,
+                    "body": "babcock banter",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "create a post in chadbourne chats",
+            "entities": [
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 17,
+                    "end": 33,
+                    "body": "chadbourne chats",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "get 2 messages",
+            "entities": [
+                {
+                    "entity": "num_messages:num_messages",
+                    "start": 3,
+                    "end": 5,
+                    "body": " 2",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "get 3 messages",
+            "entities": [
+                {
+                    "entity": "num_messages:num_messages",
+                    "start": 4,
+                    "end": 5,
+                    "body": "3",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "get 3 messages from witte",
+            "entities": [
+                {
+                    "entity": "num_messages:num_messages",
+                    "start": 4,
+                    "end": 5,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 20,
+                    "end": 25,
+                    "body": "witte",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "get help",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "get the latest post from red gym",
+            "entities": [
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 25,
+                    "end": 32,
+                    "body": "red gym",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "give me some guidance",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "give me the 4 latest posts",
+            "entities": [
+                {
+                    "entity": "num_messages:num_messages",
+                    "start": 11,
+                    "end": 13,
+                    "body": " 4",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "have I logged in",
+            "entities": [],
+            "traits": [],
+            "intent": "whoami"
+        },
+        {
+            "text": "help",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "help please",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "i need assistance",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "i need help",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "log in",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "log me in",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "log me in please",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "log me out",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "log out",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "logging out",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "login",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "login for me",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "logout",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "logout of this account",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "logout please",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "make a post in bascom hill hangout",
+            "entities": [
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 15,
+                    "end": 34,
+                    "body": "bascom hill hangout",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "make a post in humanities hubbub",
+            "entities": [
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 15,
+                    "end": 32,
+                    "body": "humanities hubbub",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "make a post in memorial union",
+            "entities": [],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "make a post in memorial union meetups",
+            "entities": [
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 14,
+                    "end": 37,
+                    "body": " memorial union meetups",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "make a post in red gym rendezvous",
+            "entities": [
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 15,
+                    "end": 33,
+                    "body": "red gym rendezvous",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "make a post in witte whispers",
+            "entities": [
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 15,
+                    "end": 29,
+                    "body": "witte whispers",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "create_message"
+        },
+        {
+            "text": "messages",
+            "entities": [],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "new account",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "please log out",
+            "entities": [],
+            "traits": [],
+            "intent": "logout"
+        },
+        {
+            "text": "please login",
+            "entities": [],
+            "traits": [],
+            "intent": "login"
+        },
+        {
+            "text": "register",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "register me",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "see the latest post in babcock",
+            "entities": [
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 23,
+                    "end": 30,
+                    "body": "babcock",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "see the latest post in red gym",
+            "entities": [
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 23,
+                    "end": 30,
+                    "body": "red gym",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "see the latest post in witte",
+            "entities": [],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "sign me up",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "sign me up please",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "sign up",
+            "entities": [],
+            "traits": [],
+            "intent": "register"
+        },
+        {
+            "text": "what are 2 latest post in humanities",
+            "entities": [
+                {
+                    "entity": "num_messages:num_messages",
+                    "start": 9,
+                    "end": 10,
+                    "body": "2",
+                    "entities": []
+                },
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 26,
+                    "end": 36,
+                    "body": "humanities",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what are 3 latest posts in bascom",
+            "entities": [
+                {
+                    "entity": "num_messages:num_messages",
+                    "start": 9,
+                    "end": 10,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 27,
+                    "end": 33,
+                    "body": "bascom",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what are 3 latest posts in chadbourne chats",
+            "entities": [
+                {
+                    "entity": "num_messages:num_messages",
+                    "start": 9,
+                    "end": 10,
+                    "body": "3",
+                    "entities": []
+                },
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 27,
+                    "end": 43,
+                    "body": "chadbourne chats",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what are the 4 latest posts in memorial",
+            "entities": [
+                {
+                    "entity": "num_messages:num_messages",
+                    "start": 13,
+                    "end": 14,
+                    "body": "4",
+                    "entities": []
+                },
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 31,
+                    "end": 39,
+                    "body": "memorial",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what can I do",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "what chatrooms are there",
+            "entities": [],
+            "traits": [],
+            "intent": "get_chatrooms"
+        },
+        {
+            "text": "what chatrooms can I use",
+            "entities": [],
+            "traits": [],
+            "intent": "get_chatrooms"
+        },
+        {
+            "text": "what chatrooms do you guys have",
+            "entities": [],
+            "traits": [],
+            "intent": "get_chatrooms"
+        },
+        {
+            "text": "what does my login look like",
+            "entities": [],
+            "traits": [],
+            "intent": "whoami"
+        },
+        {
+            "text": "what is latest post",
+            "entities": [],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what is latest post in babcock",
+            "entities": [
+                {
+                    "entity": "chatroom:chatroom",
+                    "start": 23,
+                    "end": 30,
+                    "body": "babcock",
+                    "entities": []
+                }
+            ],
+            "traits": [],
+            "intent": "get_messages"
+        },
+        {
+            "text": "what should I do",
+            "entities": [],
+            "traits": [],
+            "intent": "get_help"
+        },
+        {
+            "text": "which chatrooms can I use",
+            "entities": [],
+            "traits": [],
+            "intent": "get_chatrooms"
+        },
+        {
+            "text": "who am I",
+            "entities": [],
+            "traits": [],
+            "intent": "whoami"
+        },
+        {
+            "text": "who am I logged in as",
+            "entities": [],
+            "traits": [],
+            "intent": "whoami"
+        }
+    ]
+}
